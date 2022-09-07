@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  DynamicLocalizationTest
+
+  Created by Giwan Jo on 2022/09/01.
+  
+*/
+
+"greeting" = "%@, Hello~";
